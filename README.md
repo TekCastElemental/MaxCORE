@@ -1,4 +1,4 @@
-MaxCORE https://travis-ci.org/blue-yonder/devpi-plumber.svg?branch=master
+MaxCORE [![Build Status](https://travis-ci.org/blue-yonder/devpi-plumber.svg?branch=master)](https://travis-ci.org/blue-yonder/devpi-plumber)
 =======
 
 One of my old Minecraft mods.
