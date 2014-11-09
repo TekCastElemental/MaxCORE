@@ -1,0 +1,71 @@
+
+
+
+tile.mBLOCK.name=MaxBlock
+tile.gLAMP.name=Green Lamp
+tile.rLAMP.name=Red Lamp
+tile.yLAMP.name=Yellow Lamp
+tile.pLAMP.name=Purple Lamp
+tile.mLAMP.name=Magenta Lamp
+tile.bLAMP.name=Blue Lamp
+tile.brLAMP.name=Brown Lamp
+tile.wLAMP.name=White Lamp
+tile.marble.name=Marble
+tile.wwalling.name=White Walling
+tile.mglass.name=Modern Glass
+tile.bwood.name=Black Wood
+tile.swood.name=Saturated Wood
+tile.bbrick.name=Black Brick
+tile.gbrick.name=Green Brick
+tile.pbrick.name=Purple Brick
+tile.blbrick.name=Blue Brick
+tile.mbrick.name=Magenta Brick
+tile.ybrick.name=Yellow Brick
+tile.sORE.name=Sapphire Ore
+
+
+
+
+itemGroup.maxCORE=maxCORE
+
+
+
+item.spick.name=Sapphire Pickaxe
+item.ssword.name=Sapphire Sword
+item.sspade.name=Sapphire Shovel
+item.saxe.name=Sapphire Axe
+item.IDaxe.name=Reinforced Iron Axe
+item.IDpick.name=Reinforced Iron Pickaxe
+item.IDspade.name=Reinforced Iron Shovel
+item.IDsword.name=Reinforced Iron Sword
+item.OHIpick.name=Obsidian Headed Iron Pickaxe
+item.OHIaxe.name=Obsidian Headed Iron Axe
+item.OHIspade.name=Obsidian Headed Iron Shovel
+item.OHIsword.name=Obsidian Headed Iron Sword
+item.singot.name=Sapphire Ingot
+item.DOHpick.name=Obsidian Headed Diamond Pickaxe
+item.DOHaxe.name=Obsidian Headed Diamond Axe
+item.DOHspade.name=Obsidian Headed Diamond Shovel
+item.DOHsword.name=Obsidian Headed Diamond Sword
+item.steeldagger.name=Steel Dagger
+item.eggs.name=Eggs
+item.wheatdonut.name=Wheat Doughnut
+item.sugdonut.name=Sugar Doughnut
+item.chocdonut.name=Chocolate Doughnut
+item.IronStick.name=Iron Stick
+item.treetap.name=Tree Tap
+item.sap.name=Sticky Sap
+item.mpancake.name=Maple Syrup Coated Pancake
+item.fsticks.name=Fish Sticks
+item.icecream.name=Ice Cream
+item.cheese.name=Cheese
+item.pancake.name=Pancake
+item.syrup.name=Syrup
+item.RDaxe.name=Reinforced Diamond Axe
+item.RDpick.name=Reinforced Diamond Pickaxe
+item.RDspade.name=Reinforced Diamond Shovel
+item.RDsword.name=Reinforced Diamond Sword
+item.legsSapphire.name=Sapphire Leggings
+item.helmetSapphire.name=Sapphire Helmet
+item.bootsSapphire.name=Sapphire Boots
+item.chestplateSapphire.name=Sapphire Chestplate
