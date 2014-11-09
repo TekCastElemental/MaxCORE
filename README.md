@@ -1,4 +1,4 @@
-MaxCORE [![Build Status](https://travis-ci.org/blue-yonder/devpi-plumber.svg?branch=master)](https://travis-ci.org/blue-yonder/devpi-plumber)
+MaxCORE [![Build Status](https://travis-ci.org/tarak/django-password-policies.svg?branch=master)](https://travis-ci.org/tarak/django-password-policies)
 =======
 
 One of my old Minecraft mods.
